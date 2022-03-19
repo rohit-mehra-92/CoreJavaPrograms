@@ -2,7 +2,7 @@ import java.util.*;
 
 public class SwapNumbers {
     public static void main(String[] args) {
-        int x, y, t;// x and y are to swap
+        int x, y, t;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of X and Y");
         x = sc.nextInt();
